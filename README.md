@@ -1,25 +1,28 @@
 # Ashwini Mandal
 
-**`Computer Engineering Student (Developer)`**
+**`Aspiring Machine Learning Enginner`**
 
-A passionate computer engineering student having worked with Web Applications using ReactJS and some cool libraries and frameworks.
-
-I love learning new technologies and tools.
-
+Self-motivated and detail-oriented aspiring Machine Learning Engineer with a strong foundation in Mathematics,
+Programming and Data Analysis. Proficient in Python and skilled in utilizing libraries such as PyTorch and
+Scikit-learn for training Machine Learning and Deep Learning Models. Constanly seeking opportunities to
+expand knowledge and skill sets.
 ---
 
-### 🧰 Languages and Tools
+### Languages 
+- Python
+- C/C++
+- SQL
+- JavaScript
 
- <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+### Tools
+- PyTorch
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Git
+- Flask
 
 #
 
