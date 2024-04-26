@@ -1,7 +1,7 @@
 # Ashwini Mandal
 
 **`Aspiring Machine Learning Enginner`**
-**
+
 Self-motivated and detail-oriented aspiring Machine Learning Engineer with a strong foundation in Mathematics,
 Programming and Data Analysis. Proficient in Python and skilled in utilizing libraries such as PyTorch and
 Scikit-learn for training Machine Learning and Deep Learning Models. Constanly seeking opportunities to
