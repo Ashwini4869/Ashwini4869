@@ -1,34 +1,18 @@
 # Ashwini Mandal
 
-**`Aspiring Machine Learning Enginner`**
+**Machine Learning Engineer**  
+Passionate about building intelligent systems that bridge the gap between research and real-world impact. With hands-on experience in computer vision, model deployment, and NLP, I thrive on solving complex challenges using AI. I’ve worked extensively with LLMs and Retrieval-Augmented Generation (RAG) to create smarter applications. Always eager to learn, experiment, and push boundaries. 
 
-Self-motivated and detail-oriented aspiring Machine Learning Engineer with a strong foundation in Mathematics,
-Programming and Data Analysis. Proficient in Python and skilled in utilizing libraries such as PyTorch and
-Scikit-learn for training Machine Learning and Deep Learning Models. Constanly seeking opportunities to
-expand knowledge and skill sets.
+**Open to exciting opportunities for both work and research — LET'S CONNECT!**
 
 ---
-
-### Languages 
-- Python
-- C/C++
-- SQL
-- JavaScript
-
-### Tools
-- PyTorch
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Git
-- Flask
-
-#
+### **Tech Stack & Expertise**  
+🚀 **ML & Deep Learning** – Proficient in scikit-learn, PyTorch  
+🤖 **LLMs & NLP** – Experience in building real-world AI solutions  
+🎯 **Computer Vision & Model Deployment** – Optimizing AI for real-world applications   
+⚡ **Backend & Databases** – Skilled in Python, FastAPI, PostgreSQL  
 
 ---
-
 📊 Stats
 
 ![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwini4869&show_icons=true&theme=gruvbox)
